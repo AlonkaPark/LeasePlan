@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21735" started-at="2019-02-17T18:12:46Z" finished-at="2019-02-17T18:13:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21735" started-at="2019-02-17T18:12:46Z" finished-at="2019-02-17T18:13:08Z">
+      <class name="LeasePlanAPITests">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:LeasePlanAPITests@77caeb3e]" name="SetUp" is-config="true" duration-ms="33" started-at="2019-02-17T18:12:46Z" finished-at="2019-02-17T18:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="CreateGetAndDeletePet()[pri:0, instance:LeasePlanAPITests@77caeb3e]" name="CreateGetAndDeletePet" duration-ms="7478" started-at="2019-02-17T18:12:46Z" finished-at="2019-02-17T18:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateGetAndDeletePet -->
+        <test-method status="PASS" signature="CreateOrderForPet()[pri:0, instance:LeasePlanAPITests@77caeb3e]" name="CreateOrderForPet" duration-ms="836" started-at="2019-02-17T18:12:54Z" finished-at="2019-02-17T18:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrderForPet -->
+        <test-method status="PASS" signature="GetPetById()[pri:0, instance:LeasePlanAPITests@77caeb3e]" name="GetPetById" duration-ms="738" started-at="2019-02-17T18:12:55Z" finished-at="2019-02-17T18:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPetById -->
+        <test-method status="PASS" signature="GetPetsByStatus()[pri:0, instance:LeasePlanAPITests@77caeb3e]" name="GetPetsByStatus" duration-ms="12561" started-at="2019-02-17T18:12:56Z" finished-at="2019-02-17T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPetsByStatus -->
+      </class> <!-- LeasePlanAPITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
